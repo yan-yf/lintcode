@@ -1,1 +1,1 @@
-# lintcode
+# lintcode刷题
